@@ -1,16 +1,26 @@
 ## Hi there 👋
 
 <!--
-**sachert0rte/sachert0rte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Wan Nur Zuhairah 👋
 
-Here are some ideas to get you started:
+Bachelor of Information Technology student passionate about web and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech Stack
+- Java
+- JSP/Servlet
+- Firebase
+- MySQL
+- Flutter
+- HTML/CSS
+- Git & GitHub
+
+## Featured Projects
+- UniMatch Job Matching System
+- Fuller Hotel Housekeeping System
+- Fast & Furious Train Reservation System
+- Noiré E-Commerce Website
+
+## Contact
+- LinkedIn: linkedin.com/in/wan-nur-zuhairah-6a462938a
+- Portfolio: https://sachert0rte.github.io/
 -->
