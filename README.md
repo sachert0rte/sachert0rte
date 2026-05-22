@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Wan Nur Zuhairah 👋
 
 Bachelor of Information Technology student passionate about web and software development.
